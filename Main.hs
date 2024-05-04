@@ -1,6 +1,3 @@
--- Nome: Caio Abner Soares Araujo
--- nUSP: 4822220
-
 import System.Exit (exitFailure)
 
 ehPrimo :: Int -> Bool
